@@ -9,7 +9,6 @@ Data Loading and Preprocessing: Efficiently loads and prepares the Netflix datas
 Descriptive Statistics: Calculates and displays key statistics for various attributes, including release year and content ratings.
 
 Visualizations: Generates insightful plots, including:
-
     Count of Movies vs. TV Shows
     Titles Released Each Year
     Content Rating Distribution
