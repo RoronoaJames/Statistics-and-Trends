@@ -1,14 +1,13 @@
-# Statistics-and-Trends
-A toolkit for analyzing and visualizing statistical data trends.
-This project provides functions and tools to process datasets, calculate key statistics, and visualize patterns through dynamic charts and graphs. Whether you're tracking time series, comparing growth trends, or exploring predictive analytics, this repository offers clear, customizable solutions to uncover insights from your data. Ideal for data scientists, analysts, and developers interested in tracking and visualizing key data patterns.
+# Netflix Dataset Analysis
+Description:
+This repository contains an analysis of the Netflix Movies & TV Shows dataset, focusing on descriptive statistics and visualizations to uncover trends in content availability and viewer preferences. The analysis includes various plots and statistical evaluations to provide insights into the types of content available on Netflix, release trends over the years, and the distribution of content ratings.
 
 
-Features:
-
-Data Preprocessing: Tools for cleaning, filtering, and transforming raw data.
-
-Statistical Analysis: Includes mean, median, variance, correlation, regression, and more.
-
-Trend Visualization: Generate line graphs, bar charts, and trend lines for intuitive data storytelling.
-
-Predictive Modeling: Basic machine learning functions to project future trends.
+Key Features:
+Data Loading and Preprocessing: Efficiently loads and prepares the Netflix dataset for analysis.
+Descriptive Statistics: Calculates and displays key statistics for various attributes, including release year and content ratings.
+Visualizations: Generates insightful plots, including:
+    Count of Movies vs. TV Shows
+    Titles Released Each Year
+    Content Rating Distribution
+    Violin plot of Release_year by type
