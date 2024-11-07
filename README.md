@@ -5,8 +5,12 @@ This project provides functions and tools to process datasets, calculate key sta
 Features:
 
 Data Preprocessing: Tools for cleaning, filtering, and transforming raw data.
+
 Statistical Analysis: Includes mean, median, variance, correlation, regression, and more.
+
 Trend Visualization: Generate line graphs, bar charts, and trend lines for intuitive data storytelling.
+
 Predictive Modeling: Basic machine learning functions to project future trends.
+
 
 Ideal for data scientists, analysts, and developers interested in tracking and visualizing key data patterns.
